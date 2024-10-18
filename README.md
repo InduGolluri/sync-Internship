@@ -1,4 +1,4 @@
-# sync
+##Hey, it's Hindhu, your 2nd-year BTech friend! Welcome to github. Let's play and learn together!
 
 
 Project Overview
